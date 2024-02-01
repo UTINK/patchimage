@@ -1,2 +1,2 @@
 # patchimage
-image2patch, volume2patch, path2image, patch2volume
+image2patches, volume2patches, pathes2image, patches2volume
